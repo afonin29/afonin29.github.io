@@ -59,7 +59,7 @@ AWS, Python, Redis, PostgreSQL, Node.js (Nest.js, Sails.js), React, Redux, React
 
 ## Skills
 
-- Programming Languages: Python, Go (Golang), PHP (Symfony, Pimcore), JavaScript (Vanilla JS), TypeScript, C#
+- Programming Languages: Python, Go (Golang), PHP (Symfony, Pimcore), JavaScript (Vanilla JS), TypeScript
 - Web & Mobile Development: React, Redux, React Native, Node.js (Nest.js, Sails.js), HTML, CSS
 - Cloud & DevOps: AWS (EC2, S3, Lambda, etc.), Microservices Architecture, API Integration
 - Software Practices: Agile (Scrum), High-load Systems, Data Processing & Normalization, Legacy System Modernization
