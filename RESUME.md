@@ -73,4 +73,4 @@ AWS, Python, Redis, PostgreSQL, Node.js (Nest.js, Sails.js), React, Redux, React
 - Traveling
 - Sports (tennis, football, athletics)
 - Powerlifting
-- - Hiking
+- Hiking
