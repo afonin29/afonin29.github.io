@@ -1,0 +1,51 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Anton Afonin",
+    "section": "",
+    "text": "Software Developer | antonafonin9@gmail.com | linkedin.com/in/anton-afonin-0026b31b9\n\n\nFull-stack developer with strong expertise in Python, AWS, React, and both SQL and NoSQL databases. Experienced in building scalable, high-performance applications and delivering end-to-end solutions. Passionate about clean code, problem solving, and creating efficient software architectures.\n\n\n\n\n\nJuly 2024 - Present\n\nDesigned and implemented architecture for checkout flows supporting multiple product types\nIntegrated and standardized workflows with third-party APIs\nDeveloped high-load pages using Go preprocessing for improved performance\nBuilt data pipelines to process information from diverse sources and unify formats\nMigrated services from a PHP monolith to cloud-based microservices\nDelivered high-quality features within short timelines\nCollaborated across multiple teams to ensure seamless development and delivery\n\n\n\n\nAWS, Python, Golang, MongoDB, Elasticsearch, MySQL, PHP (Symfony, Pimcore), HTML + CSS + Vanilla JS, React\n\n\n\nMay 2022 - July 2024\n\nSupported and extended a legacy real estate platform, including financial reporting, bank transaction synchronization, and complex financial calculations\nDesigned and implemented the architecture of a security-focused mobile application for password storage and generation, working on both back-end and mobile layers\nDeveloped a system to generate millions of static pages, including data normalization pipelines to support efficient and scalable page generation\nContributed as part of a Scrum team using Agile methodology to deliver continuous improvements\n\n\n\n\nAWS, Python, Redis, PostgreSQL, Node.js (Nest.js, Sails.js), React, Redux, React Native\n\n\n\nFebruary 2022 - May 2022\n\nWorked on internal projects using C# in a collaborative development environment\nContributed to multinational teams, improving communication and cross-cultural collaboration\n\n\n\n\nFebruary 2022 - May 2022\n\nDeveloped financial reports and automated routine tasks using Visual Basic to improve efficiency\nBuilt interactive dashboards with Power Query and Microsoft SQL Server for business monitoring\nWorked on pricing models for a wide range of products, incorporating multiple business factors\nCalculated pricing adjustments for contract modifications, ensuring accuracy and consistency across offerings\n\n\n\n\n\n\n\nTaras Shevchenko National University of Kyiv\n2021 – 2023\n\n\n\nTaras Shevchenko National University of Kyiv\n2017-2021\n\n\n\n\n\nProgramming Languages: Python, Go (Golang), PHP (Symfony, Pimcore), JavaScript (Vanilla JS), TypeScript\nWeb & Mobile Development: React, Redux, React Native, Node.js (Nest.js, Sails.js), HTML, CSS\nCloud & DevOps: AWS (EC2, S3, Lambda, etc.), Microservices Architecture, API Integration\nSoftware Practices: Agile (Scrum), High-load Systems, Data Processing & Normalization, Legacy System Modernization\n\n\n\n\n\nEnglish: Upper Intermediate\n\n\n\n\n\nTraveling\nSports (tennis, football, athletics)\nPowerlifting\nHiking"
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Anton Afonin",
+    "section": "",
+    "text": "Full-stack developer with strong expertise in Python, AWS, React, and both SQL and NoSQL databases. Experienced in building scalable, high-performance applications and delivering end-to-end solutions. Passionate about clean code, problem solving, and creating efficient software architectures."
+  },
+  {
+    "objectID": "index.html#work-experience",
+    "href": "index.html#work-experience",
+    "title": "Anton Afonin",
+    "section": "",
+    "text": "July 2024 - Present\n\nDesigned and implemented architecture for checkout flows supporting multiple product types\nIntegrated and standardized workflows with third-party APIs\nDeveloped high-load pages using Go preprocessing for improved performance\nBuilt data pipelines to process information from diverse sources and unify formats\nMigrated services from a PHP monolith to cloud-based microservices\nDelivered high-quality features within short timelines\nCollaborated across multiple teams to ensure seamless development and delivery\n\n\n\n\nAWS, Python, Golang, MongoDB, Elasticsearch, MySQL, PHP (Symfony, Pimcore), HTML + CSS + Vanilla JS, React\n\n\n\nMay 2022 - July 2024\n\nSupported and extended a legacy real estate platform, including financial reporting, bank transaction synchronization, and complex financial calculations\nDesigned and implemented the architecture of a security-focused mobile application for password storage and generation, working on both back-end and mobile layers\nDeveloped a system to generate millions of static pages, including data normalization pipelines to support efficient and scalable page generation\nContributed as part of a Scrum team using Agile methodology to deliver continuous improvements\n\n\n\n\nAWS, Python, Redis, PostgreSQL, Node.js (Nest.js, Sails.js), React, Redux, React Native\n\n\n\nFebruary 2022 - May 2022\n\nWorked on internal projects using C# in a collaborative development environment\nContributed to multinational teams, improving communication and cross-cultural collaboration\n\n\n\n\nFebruary 2022 - May 2022\n\nDeveloped financial reports and automated routine tasks using Visual Basic to improve efficiency\nBuilt interactive dashboards with Power Query and Microsoft SQL Server for business monitoring\nWorked on pricing models for a wide range of products, incorporating multiple business factors\nCalculated pricing adjustments for contract modifications, ensuring accuracy and consistency across offerings"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Anton Afonin",
+    "section": "",
+    "text": "Taras Shevchenko National University of Kyiv\n2021 – 2023\n\n\n\nTaras Shevchenko National University of Kyiv\n2017-2021"
+  },
+  {
+    "objectID": "index.html#skills",
+    "href": "index.html#skills",
+    "title": "Anton Afonin",
+    "section": "",
+    "text": "Programming Languages: Python, Go (Golang), PHP (Symfony, Pimcore), JavaScript (Vanilla JS), TypeScript\nWeb & Mobile Development: React, Redux, React Native, Node.js (Nest.js, Sails.js), HTML, CSS\nCloud & DevOps: AWS (EC2, S3, Lambda, etc.), Microservices Architecture, API Integration\nSoftware Practices: Agile (Scrum), High-load Systems, Data Processing & Normalization, Legacy System Modernization"
+  },
+  {
+    "objectID": "index.html#languages",
+    "href": "index.html#languages",
+    "title": "Anton Afonin",
+    "section": "",
+    "text": "English: Upper Intermediate"
+  },
+  {
+    "objectID": "index.html#interests",
+    "href": "index.html#interests",
+    "title": "Anton Afonin",
+    "section": "",
+    "text": "Traveling\nSports (tennis, football, athletics)\nPowerlifting\nHiking"
+  }
+]
