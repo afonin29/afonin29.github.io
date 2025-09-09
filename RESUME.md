@@ -1,5 +1,5 @@
 # Anton Afonin
-Data Analyst
+Software Developer
 | [antonafonin9@gmail.com](mailto:antonafonin9@gmail.com)
 | [linkedin.com/in/anton-afonin-0026b31b9](https://www.linkedin.com/in/anton-afonin-0026b31b9/)
 
